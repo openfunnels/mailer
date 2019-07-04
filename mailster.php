@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Mailster - Email Newsletter Plugin for WordPress
+Plugin Name: Mailer - Email Plugin for WordPress
 Plugin URI: https://mailster.co
 Description: The Ultimate Newsletter Plugin.
 Version: 2.4.2
