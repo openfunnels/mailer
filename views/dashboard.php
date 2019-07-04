@@ -19,9 +19,9 @@ if ( $this->update ) {
 			<p class="about-description"></p>
 			<div class="welcome-panel-column-container">
 
-			<h2 class="welcome-header"><?php esc_html_e( 'Register for News, Support and Updates related to Mailster.', 'mailster' ); ?></h2>
+			<h2 class="welcome-header"><!--?php esc_html_e( 'Register for News, Support and Updates related to Mailster.', 'mailster' ); ?--></h2>
 
-				<?php mailster( 'register' )->form() ?>
+				<!--?php mailster( 'register' )->form() ?-->
 
 			</div>
 

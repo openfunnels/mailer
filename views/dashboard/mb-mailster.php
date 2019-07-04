@@ -10,10 +10,10 @@ if ( mailster()->is_verified() ) {
 }
 
 ?>
-<div class="locked">
+<!--div class="locked">
 	<h2><span class="not-valid"><?php esc_html_e( 'Please Validate', 'mailster' ); ?></span><span class="valid"><?php esc_html_e( 'Validated!', 'mailster' ); ?></span>
 	</h2>
-</div>
+</div-->
 <dl class="mailster-icon mailster-icon-finished valid">
 	<dt><?php esc_html_e( 'Verified', 'mailster' ); ?></dt>
 	<dd><?php printf( esc_html__( 'User: %1$s - %2$s', 'mailster' ), '<span class="mailster-username">' . esc_html( $license_user ) . '</span>', '<span class="mailster-email lighter">' . esc_html( $license_email ) . '</span>' ) ?></dd>
