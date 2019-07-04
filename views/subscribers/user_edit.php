@@ -12,7 +12,7 @@ if ( $subscriber = $this->get_by_wpid( $user->ID, true ) ) :
 			<th scope="row"><label for="user_login"><?php esc_html_e( 'Profile', 'mailster' );?></label></th>
 			<td>
 			<a class="button" href="edit.php?post_type=newsletter&page=mailster_subscribers&ID=<?php echo (int) $subscriber->ID ?>">
-				<?php IS_PROFILE_PAGE ? esc_html_e( 'Edit my Mailster Profile', 'mailster' ) : esc_html_e( 'Edit Users Mailster Profile', 'mailster' );?>
+				<?php IS_PROFILE_PAGE ? esc_html_e( 'Edit My Mailer Profile', 'mailster' ) : esc_html_e( 'Edit Users Mailster Profile', 'mailster' );?>
 			</a>
 			</td>
 		</tr>

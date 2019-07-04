@@ -2185,7 +2185,7 @@ msgid "Edit base"
 msgstr ""
 
 #: views/subscribers/user_edit.php:15
-msgid "Edit my Mailster Profile"
+msgid "Edit My Mailer Profile"
 msgstr ""
 
 #: classes/lists.class.php:199 classes/subscribers.class.php:418
@@ -3601,7 +3601,7 @@ msgid "My Lists"
 msgstr ""
 
 #: classes/dashboard.class.php:147
-msgid "My Mailster"
+msgid "My Mailer"
 msgstr ""
 
 #: classes/dashboard.class.php:149
