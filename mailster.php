@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: Mailer - Email Plugin for WordPress
+Plugin Name: Mailer
 Plugin URI: https://mailster.co
-Description: The Ultimate Newsletter Plugin.
+Description: The Ultimate Email Plugin.
 Version: 2.4.2
-Author: EverPress
-Author URI: https://everpress.co
-Text Domain: mailster
+Author: OpenFunnels
+Author URI: https://openfunnels.com
+Text Domain: openfunnels
 */
 
 if ( defined( 'MAILSTER_VERSION' ) || ! defined( 'ABSPATH' ) ) {
